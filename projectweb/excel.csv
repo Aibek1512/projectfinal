@@ -1,0 +1,6 @@
+Address,Address Stop Type,First Name,Last Name,Phone,Email,Group,Weight,Pieces,Cube,Revenue,Cost,Service Time,Time Window Start,Time Window End
+"105 W 28th St, New York, NY 10001, United States",DELIVERY,John,Doe,1 888 552 9045,@email,Group_1,1,1,1,1,1,00:15:00,"Day 1, 9:00 AM","Day 1, 5:00 PM"
+"20 W 34th St, New York, NY 10001, USA",PICKUP,John,Doe,1 888 552 9045,@email,Group_1,1,1,1,1,1,00:15:00,"Day 1, 9:00 AM","Day 1, 5:00 PM"
+"222 E 34th St, New York, NY 10016, USA",SERVICE,John,Doe,1 888 552 9045,@email,Group_1,1,1,1,1,1,00:15:00,"Day 1, 9:00 AM","Day 1, 5:00 PM"
+"725 5th Ave, New York, NY 10022, United States",BREAK ,John,Doe,1 888 552 9045,@email,Group_1,1,1,1,1,1,00:15:00,"Day 1, 9:00 AM","Day 1, 5:00 PM"
+"125 E 54th St, New York, NY 10022, USA",VISIT,John,Doe,1 888 552 9045,@email,Group_1,1,1,1,1,1,00:15:00,"Day 1, 9:00 AM","Day 1, 5:00 PM"
